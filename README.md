@@ -1,4 +1,4 @@
-# Hi there, I'm [SBasMaster][youtube] 👋 
+# Hi there, I'm SBasMaster👋 
 
 ## I'm Developer,!!
 
