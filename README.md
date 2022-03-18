@@ -6,13 +6,10 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://github.com/SBasMaster)
-[![website](./img/globe-dark.svg)](https://github.com/SBasMaster)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCc-8nLvPhFup7GXfH5P6MMQ)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCc-8nLvPhFup7GXfH5P6MMQ)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/cloud.dev.cyber/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/cloud.dev.cyber/)
 
 ### Languages and Tools:
 
