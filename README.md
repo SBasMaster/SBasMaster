@@ -1,13 +1,7 @@
 # Hi there, I'm [SBasMaster][youtube] 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm Developer,!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
 
@@ -46,14 +40,12 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-<br />
-<br />
+<br/>
+<br/>
 
 ---
 
 
-[website]: https://github.com/SBasMaster
-[course]: https://github.com/SBasMaster
 [twitter]: https://github.com/SBasMaster
 [youtube]: https://github.com/SBasMaster
 [instagram]: https://github.com/SBasMaster
