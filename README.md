@@ -26,11 +26,3 @@
 ---
 
 
-[twitter]: https://github.com/SBasMaster
-[youtube]: https://github.com/SBasMaster
-[instagram]: https://github.com/SBasMaster
-[linkedin]: https://github.com/SBasMaster
-[webdevplaylist]: https://github.com/SBasMaster
-[jsplaylist]: https://github.com/SBasMaster
-[cssplaylist]: https://github.com/SBasMaster
-[reactplaylist]: https://github.com/SBasMaster
