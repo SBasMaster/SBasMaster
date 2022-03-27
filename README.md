@@ -4,7 +4,6 @@
 
 ## Software Engineer Developer
 
-### <span style="color:blue"> vscode,html,css,js,react,nodejs </span>
 
 ### Connect with me:
 
