@@ -11,7 +11,7 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCc-8nLvPhFup7GXfH5P6MMQ)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/cloud.dev.cyber/)
+
 
 ### Languages and Tools:
 
